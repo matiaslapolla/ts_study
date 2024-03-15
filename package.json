@@ -1,0 +1,14 @@
+{
+	"name": "ts_study",
+	"version": "1.0.0",
+	"main": "index.ts",
+	"scripts": {
+		"start": "ts-node index.ts"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"source-map-support": "^0.5.21"
+	}
+}
